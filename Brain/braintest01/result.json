@@ -1,0 +1,27 @@
+{
+    "files": [],
+    "output": {
+        "lifetime1": {
+            "mv1": 8760000,
+            "mv2": 8760000,
+            "mv3": 8760000
+        },
+        "lifetime2": {
+            "mv1": 8760000,
+            "mv2": 8760000,
+            "mv3": 8760000
+        },
+        "lifetime1min": 8760000,
+        "lifetime2min": 8760000,
+        "lifetime1max": 8760000,
+        "lifetime2max": 8760000,
+        "outliers": [],
+        "lasttrenddate": "2024-01-09 23:24:09",
+        "nonewdata": false,
+        "batterydeterioration": false,
+        "batteryslope": 0,
+        "tholdmessages": [
+            "\u30c8\u30ec\u30f3\u30c9\u4e0a\u6607\u30a2\u30e9\u30fc\u30e0\u30b9\u30c6\u30fc\u30bf\u30b9\u304cNG\u3067\u306a\u3044"
+        ]
+    }
+}
